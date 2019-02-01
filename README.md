@@ -1,6 +1,6 @@
 # Tinder UI Animation Clone
 
-It only includes the swipeIn / swipeOut (left and right) animation of Tinder UI using PanResponder and Animated from RN lib. This is one of my practicing repo to improve layout position and animation in React Native.
+It only includes the swipeOut (left and right) animation of Tinder UI using PanResponder and Animated from RN lib. This is one of my practicing repo to improve layout position and animation in React Native.
 
 ## Built With
 
@@ -10,7 +10,7 @@ It only includes the swipeIn / swipeOut (left and right) animation of Tinder UI 
 ## Demo
 
 <p align="center">
-  <img src = "#" width=500>
+  <img src = "https://i.imgur.com/SIfJvdp.gif" width=500>
 </p>
 
 ## Run it locally
